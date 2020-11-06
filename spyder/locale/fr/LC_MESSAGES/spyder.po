@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 06:58\n"
+"PO-Revision-Date: 2020-11-06 07:06\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -606,7 +606,7 @@ msgstr "Éditeur"
 
 #: spyder/app/tour.py:158
 msgid "This is where you write Python code before evaluating it. You can get automatic completions while typing, along with calltips when calling a function and help when hovering over an object.<br><br>The Editor comes with a line number area (highlighted here in red) where Spyder shows warnings and syntax errors. They can help you to detect potential problems before running your code.<br><br>You can also set debug breakpoints in the line number area by clicking next to any non-empty line."
-msgstr ""
+msgstr "C'est ici que vous écrivez du code Python avant de l'évaluer. Vous pouvez obtenir des complétions automatiques, ainsi que de l'aide contextuelle lorsque vous appelez une fonction ou survolez un objet.<br><br>L'éditeur est livré avec une zone de numéros de ligne (surlignée ici en rouge) où Spyder affiche des avertissements et des erreurs de syntaxe. Ils peuvent vous aider à détecter des problèmes potentiels avant d'exécuter votre code.<br><br>Vous pouvez également définir des points d'arrêt de débogage dans la zone de numéro de ligne en cliquant à côté d'une ligne non vide."
 
 #: spyder/app/tour.py:175 spyder/plugins/help/confpage.py:33
 msgid "IPython Console"
@@ -614,15 +614,15 @@ msgstr "Console IPython"
 
 #: spyder/app/tour.py:176
 msgid "This is where you can run Python code, either from the Editor or interactively. To run the current file, press <b>F5</b> by default, or press <b>F9</b> to execute the current line or selection.<br><br>The IPython Console comes with many useful features that greatly improve your programming workflow, like syntax highlighting, autocompletion, plotting and 'magic' commands. To learn more, check out the <a href=\"{0}\">documentation</a>.<br><br>{1}"
-msgstr ""
+msgstr "C'est ici que vous pouvez exécuter du code Python, soit à partir de l'éditeur ou de manière interactive. Pour exécuter le fichier courant, appuyez sur <b>F5</b> par défaut, ou appuyez sur <b>F9</b> pour exécuter la ligne ou la sélection courante.<br><br>La console IPython est fournie avec de nombreuses fonctionnalités utiles qui améliorent grandement votre flux de travail de programmation, telles que la coloration syntaxique, l'autocomplétion, le tracé de graphes et les commandes \"magiques\". Pour en savoir plus, consultez la <a href=\"{0}\">documentation</a>.<br><br>{1}"
 
 #: spyder/app/tour.py:195
 msgid "Variable Explorer"
-msgstr ""
+msgstr "Explorateur de variables"
 
 #: spyder/app/tour.py:196
 msgid "In this pane you can view and edit the variables generated during the execution of a program, or those entered directly in the IPython Console.<br><br>If you ran the code in the previous step, the Variable Explorer will show the list and dictionary objects it generated. By double-clicking any variable, a new window will be opened where you can inspect and modify their contents."
-msgstr ""
+msgstr "Dans ce volet, vous pouvez voir et éditer les variables générées lors de l'exécution d'un programme, ou celles entrées directement dans la console IPython.<br><br>Si vous avez exécuté du code à l'étape précédente, l'explorateur de variables affichera la liste et les objets dictionnaire qu'il a générés. En double-cliquant sur une variable, une nouvelle fenêtre s'ouvrira où vous pourrez inspecter et modifier son contenu."
 
 #: spyder/app/tour.py:209 spyder/plugins/console/widgets/internalshell.py:269 spyder/plugins/help/plugin.py:198 spyder/plugins/help/plugin.py:693 spyder/widgets/switcher.py:971 spyder/widgets/tests/test_switcher.py:32
 msgid "Help"
