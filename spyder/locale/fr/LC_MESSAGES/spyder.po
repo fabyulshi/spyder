@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 07:22\n"
+"PO-Revision-Date: 2020-11-06 07:29\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -1431,7 +1431,7 @@ msgstr "Exporter les blocs de texte en JSON"
 
 #: spyder/plugins/completion/languageserver/confpage.py:426
 msgid "Import snippets from JSON"
-msgstr ""
+msgstr "Importer des blocs de texte depuis JSON"
 
 #: spyder/plugins/completion/languageserver/confpage.py:460
 msgid "Providers"
@@ -1527,11 +1527,11 @@ msgstr "Style des docstrings"
 
 #: spyder/plugins/completion/languageserver/confpage.py:625
 msgid "Code formatting"
-msgstr ""
+msgstr "Formatage du code"
 
 #: spyder/plugins/completion/languageserver/confpage.py:626
 msgid "Snippets"
-msgstr ""
+msgstr "Blocs de texte"
 
 #: spyder/plugins/completion/languageserver/confpage.py:631
 msgid "Other languages"
@@ -3976,11 +3976,11 @@ msgstr ""
 
 #: spyder/plugins/ipythonconsole/confpage.py:284
 msgid "Use exclamation mark prefix for Pdb commands"
-msgstr ""
+msgstr "Utiliser un point d'exclamation comme préfixe pour les commandes Pdb"
 
 #: spyder/plugins/ipythonconsole/confpage.py:286
 msgid "This option lets you decide if the Pdb commands should be prefixed by an exclamation mark. This helps in separating Pdb commands from Python code."
-msgstr ""
+msgstr "Cette option vous permet de décider si les commandes Pdb peuvent être préfixées par un point d'exclamation. Cela aide à séparer les commandes Pdb du code Python."
 
 #: spyder/plugins/ipythonconsole/confpage.py:295
 msgid "Jedi completion"
@@ -4096,7 +4096,7 @@ msgstr "Démarrage"
 
 #: spyder/plugins/ipythonconsole/confpage.py:432
 msgid "Debugger"
-msgstr ""
+msgstr "Débogueur"
 
 #: spyder/plugins/ipythonconsole/plugin.py:83
 msgid "The directory {} is not writable and it is required to create IPython consoles. Please make it writable."
@@ -4156,7 +4156,7 @@ msgstr "Aucune console IPython n'est actuellement disponible pour exécuter <b> 
 
 #: spyder/plugins/ipythonconsole/plugin.py:718
 msgid "Your Python environment or installation doesn't have the <tt>spyder-kernels</tt> module or the right version of it installed (>= 1.9.4 and < 1.10.0). Without this module is not possible for Spyder to create a console for you.<br><br>You can install it by running in a system terminal:<br><br><tt>conda install spyder-kernels</tt><br><br>or<br><br><tt>pip install spyder-kernels</tt>"
-msgstr ""
+msgstr "Votre environnement ou votre installation Python ne dispose pas du module <tt>spyder-kernels</tt> ou la version de celui-ci n'est pas appropriée (entre >= 1.9.4 et < 1.10.0). Sans ce module, il est impossible pour Spyder de créer une console pour vous. <br><br>Vous pouvez l'installer en exécutant dans un terminal :<br><br><tt>conda install spyder-kernels</tt><br><br> ou <br><br><tt>pip install spyder-kernels</tt>"
 
 #: spyder/plugins/ipythonconsole/plugin.py:1014
 msgid "Do you want to close this console?"
@@ -4356,7 +4356,7 @@ msgstr "Le noyau est mort"
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:93
 msgid "An error occured, see the console."
-msgstr ""
+msgstr "Une erreur est survenue, consultez la console."
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:94
 msgid "%s.<br><br>Note: Please don't report this problem on Github, there's nothing to do about it."
@@ -4442,23 +4442,23 @@ msgstr "Module"
 
 #: spyder/plugins/outlineexplorer/widgets.py:70
 msgid "Namespace"
-msgstr ""
+msgstr "Espace de nommage"
 
 #: spyder/plugins/outlineexplorer/widgets.py:71
 msgid "Package"
-msgstr ""
+msgstr "Paquet"
 
 #: spyder/plugins/outlineexplorer/widgets.py:72
 msgid "Class"
-msgstr ""
+msgstr "Classe"
 
 #: spyder/plugins/outlineexplorer/widgets.py:73
 msgid "Method"
-msgstr ""
+msgstr "Méthode"
 
 #: spyder/plugins/outlineexplorer/widgets.py:74
 msgid "Property"
-msgstr ""
+msgstr "Propriété"
 
 #: spyder/plugins/outlineexplorer/widgets.py:75 spyder/plugins/variableexplorer/widgets/collectionseditor.py:198
 msgid "Attribute"
@@ -4466,39 +4466,39 @@ msgstr "Attribut"
 
 #: spyder/plugins/outlineexplorer/widgets.py:76
 msgid "constructor"
-msgstr ""
+msgstr "constructeur"
 
 #: spyder/plugins/outlineexplorer/widgets.py:77
 msgid "Enum"
-msgstr ""
+msgstr "Enum"
 
 #: spyder/plugins/outlineexplorer/widgets.py:79
 msgid "Function"
-msgstr ""
+msgstr "Fonction"
 
 #: spyder/plugins/outlineexplorer/widgets.py:80
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 #: spyder/plugins/outlineexplorer/widgets.py:81
 msgid "Constant"
-msgstr ""
+msgstr "Constant"
 
 #: spyder/plugins/outlineexplorer/widgets.py:82
 msgid "String"
-msgstr ""
+msgstr "Chaine"
 
 #: spyder/plugins/outlineexplorer/widgets.py:83
 msgid "Number"
-msgstr ""
+msgstr "Numéro"
 
 #: spyder/plugins/outlineexplorer/widgets.py:84
 msgid "Boolean"
-msgstr ""
+msgstr "Booléen"
 
 #: spyder/plugins/outlineexplorer/widgets.py:85
 msgid "Array"
-msgstr ""
+msgstr "Tableau"
 
 #: spyder/plugins/outlineexplorer/widgets.py:87 spyder/plugins/variableexplorer/widgets/collectionseditor.py:193
 msgid "Key"
@@ -4506,35 +4506,35 @@ msgstr "Clé"
 
 #: spyder/plugins/outlineexplorer/widgets.py:88
 msgid "Null"
-msgstr ""
+msgstr "Null"
 
 #: spyder/plugins/outlineexplorer/widgets.py:89
 msgid "Enum member"
-msgstr ""
+msgstr "Membre de l’énumération"
 
 #: spyder/plugins/outlineexplorer/widgets.py:90
 msgid "Struct"
-msgstr ""
+msgstr "Structure"
 
 #: spyder/plugins/outlineexplorer/widgets.py:91
 msgid "Event"
-msgstr ""
+msgstr "Événement"
 
 #: spyder/plugins/outlineexplorer/widgets.py:92
 msgid "Operator"
-msgstr ""
+msgstr "Opérateur"
 
 #: spyder/plugins/outlineexplorer/widgets.py:93
 msgid "Type parameter"
-msgstr ""
+msgstr "Paramètre du type"
 
 #: spyder/plugins/outlineexplorer/widgets.py:94
 msgid "Cell"
-msgstr ""
+msgstr "Cellule"
 
 #: spyder/plugins/outlineexplorer/widgets.py:95
 msgid "Block comment"
-msgstr ""
+msgstr "Bloquer les commentaires"
 
 #: spyder/plugins/outlineexplorer/widgets.py:275
 msgid "Line %s"
@@ -4562,11 +4562,11 @@ msgstr "Cellules de code de groupe"
 
 #: spyder/plugins/outlineexplorer/widgets.py:363
 msgid "Display variables and attributes"
-msgstr ""
+msgstr "Afficher les variables et les attributs"
 
 #: spyder/plugins/outlineexplorer/widgets.py:369
 msgid "Follow cursor position"
-msgstr ""
+msgstr "Suivre la position du curseur"
 
 #: spyder/plugins/outlineexplorer/widgets.py:374
 msgid "Sort files alphabetically"
@@ -5125,23 +5125,23 @@ msgstr "Afficher cette variable peut prendre du temps.\n\n"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:124
 msgid "Spyder is unable to show the {val_type} or object you're trying to view because <tt>{module}</tt> is not installed. "
-msgstr ""
+msgstr "Spyder est incapable d'afficher {val_type} ou l'objet que vous essayez de voir car <tt>{module}</tt> n'est pas installé. "
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:128
 msgid "Please consider using the full version of the Spyder MacOS application.<br>"
-msgstr ""
+msgstr "Veuillez envisager d'utiliser la version complète de l'application Spyder MacOS.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:131
 msgid "Please install this package in your Spyder environment.<br>"
-msgstr ""
+msgstr "Veuillez installer ce paquet dans votre environnement Spyder.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:139
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not supported in the Spyder Lite application.<br>"
-msgstr ""
+msgstr "Spyder est incapable d'afficher la variable que vous essayez d'afficher car le module <tt>{module}</tt> n'est pas pris en charge dans l'application Spyder Lite.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:144
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not found in your Spyder environment. Please install this package in this environment.<br>"
-msgstr ""
+msgstr "Spyder est incapable d'afficher la variable que vous essayez de voir car le module <tt>{module}</tt> n'a pas été trouvé dans votre environnement Spyder. Veuillez installer ce paquet dans votre environnement Spyder.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:155
 msgid "Spyder was unable to retrieve the value of this variable from the console.<br><br>The error message was:<br>%s"
@@ -5189,7 +5189,7 @@ msgstr "éléments"
 
 #: spyder/plugins/variableexplorer/widgets/collectionseditor.py:203
 msgid "element"
-msgstr ""
+msgstr "élément"
 
 #: spyder/plugins/variableexplorer/widgets/collectionseditor.py:444
 msgid "Value"
@@ -5229,7 +5229,7 @@ msgstr "Insérer"
 
 #: spyder/plugins/variableexplorer/widgets/collectionseditor.py:621
 msgid "Insert above"
-msgstr ""
+msgstr "Insérer au-dessus"
 
 #: spyder/plugins/variableexplorer/widgets/collectionseditor.py:626
 msgid "Insert below"
