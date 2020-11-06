@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 07:41\n"
+"PO-Revision-Date: 2020-11-06 07:48\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -1735,15 +1735,15 @@ msgstr "Pour ajouter un nouvel extrait de code, vous devez définir le texte qui
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:246
 msgid "Trigger text:"
-msgstr ""
+msgstr "Texte de déclenchement :"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:251
 msgid "Description:"
-msgstr ""
+msgstr "Description :"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:256
 msgid "Remove trigger text on insertion"
-msgstr ""
+msgstr "Supprimer le texte déclencheur lors de l'insertion"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:257
 msgid "Check if the text that triggers this snippet should be removed when inserting it"
@@ -1767,23 +1767,23 @@ msgstr "Complétion de l'extrait de code à insérer"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:314
 msgid "Trigger information"
-msgstr ""
+msgstr "Informations sur le déclencheur"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:456
 msgid "Double-click to view or edit"
-msgstr ""
+msgstr "Double-cliquez pour voir ou modifier"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:468
 msgid "Trigger text"
-msgstr ""
+msgstr "Texte déclencheur"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:470
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: spyder/plugins/completion/languageserver/widgets/status.py:36
 msgid "starting"
-msgstr ""
+msgstr "démarrage"
 
 #: spyder/plugins/completion/languageserver/widgets/status.py:37
 msgid "ready"
@@ -1791,7 +1791,7 @@ msgstr "prêt"
 
 #: spyder/plugins/completion/languageserver/widgets/status.py:38
 msgid "restarting"
-msgstr ""
+msgstr "redémarrage"
 
 #: spyder/plugins/completion/languageserver/widgets/status.py:39
 msgid "down"
@@ -2082,11 +2082,11 @@ msgstr "Supprimer automatiquement les espaces en fin de ligne lors de l'enregist
 
 #: spyder/plugins/editor/confpage.py:142
 msgid "Insert a newline at the end if one does not exist when saving a file"
-msgstr ""
+msgstr "Insérer une nouvelle ligne à la fin si elle n'existe pas lors de l'enregistrement d'un fichier"
 
 #: spyder/plugins/editor/confpage.py:147
 msgid "Trim all newlines after the final one when saving a file"
-msgstr ""
+msgstr "Couper toutes les nouvelles lignes après la dernière ligne lors de l'enregistrement d'un fichier"
 
 #: spyder/plugins/editor/confpage.py:152
 msgid "Indentation characters: "
@@ -2609,7 +2609,7 @@ msgstr "Supprimer les espaces en fin de ligne"
 
 #: spyder/plugins/editor/plugin.py:810 spyder/plugins/editor/plugin.py:1644 spyder/plugins/editor/widgets/codeeditor.py:4101 spyder/plugins/editor/widgets/codeeditor.py:4879
 msgid "Format file or selection with {0}"
-msgstr ""
+msgstr "Formater le fichier ou la sélection avec {0}"
 
 #: spyder/plugins/editor/plugin.py:836
 msgid "Show code style warnings"
@@ -2861,7 +2861,7 @@ msgstr "Afficher dans l’explorateur de fichiers externe"
 
 #: spyder/plugins/editor/widgets/editor.py:636
 msgid "Spyder can't show this file in the external file explorer because the <tt>xdg-utils</tt> package is not available on your system."
-msgstr ""
+msgstr "Spyder ne peut pas afficher ce fichier dans l'explorateur de fichiers externe car le paquet <tt>xdg-utils</tt> n'est pas disponible sur votre système."
 
 #: spyder/plugins/editor/widgets/editor.py:1465
 msgid "Temporary file"
@@ -3038,11 +3038,11 @@ msgstr "Branche de Git"
 
 #: spyder/plugins/explorer/confpage.py:32
 msgid "General options"
-msgstr ""
+msgstr "Options générales"
 
 #: spyder/plugins/explorer/confpage.py:33 spyder/plugins/explorer/widgets/explorer.py:334
 msgid "Show hidden files"
-msgstr ""
+msgstr "Afficher les fichiers cachés"
 
 #: spyder/plugins/explorer/confpage.py:34
 msgid "Single click to open files"
@@ -3050,11 +3050,11 @@ msgstr "Un seul clic pour ouvrir les fichiers"
 
 #: spyder/plugins/explorer/confpage.py:42
 msgid "Filter settings"
-msgstr ""
+msgstr "Paramètres de filtrage"
 
 #: spyder/plugins/explorer/confpage.py:44 spyder/plugins/explorer/widgets/explorer.py:401
 msgid "Filter files by name, extension, or more using <a href=\"https://en.wikipedia.org/wiki/Glob_(programming)\">glob patterns.</a> Please enter the glob patterns of the files you want to show, separated by commas."
-msgstr ""
+msgstr "Filtrer les fichiers par nom, extension, ou plus en utilisant <a href=\"https://en.wikipedia.org/wiki/Glob_(programming)\">glob.</a> Veuillez entrer le code glob correspondant aux fichiers que vous voulez afficher, séparés par des virgules."
 
 #: spyder/plugins/explorer/confpage.py:91 spyder/preferences/general.py:42 spyder/preferences/general.py:49
 msgid "General"
@@ -3078,7 +3078,7 @@ msgstr "Date modifiée"
 
 #: spyder/plugins/explorer/widgets/explorer.py:339
 msgid "Edit filter settings..."
-msgstr ""
+msgstr "Éditer les paramètres de filtre..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:346
 msgid "Single click to open"
@@ -3086,7 +3086,7 @@ msgstr "Un seul clic pour ouvrir"
 
 #: spyder/plugins/explorer/widgets/explorer.py:397
 msgid "Edit filter settings"
-msgstr ""
+msgstr "Éditer les paramètres de filtre"
 
 #: spyder/plugins/explorer/widgets/explorer.py:456
 msgid "File..."
@@ -3094,7 +3094,7 @@ msgstr "Fichier..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:460
 msgid "Python file..."
-msgstr ""
+msgstr "Fichier Python..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:464
 msgid "Folder..."
@@ -3102,7 +3102,7 @@ msgstr "Dossier..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:468
 msgid "Python Package..."
-msgstr ""
+msgstr "Paquet Python..."
 
 #: spyder/plugins/explorer/widgets/explorer.py:489
 msgid "Open in Spyder"
@@ -3350,11 +3350,11 @@ msgstr "Afficher la date de modification"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1796
 msgid "Activate filename filters"
-msgstr ""
+msgstr "Activer les filtres de nom de fichier"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1796
 msgid "Deactivate filename filters"
-msgstr ""
+msgstr "Désactiver les filtres de nom de fichier"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:113
 msgid "Browse..."
@@ -3932,31 +3932,31 @@ msgstr "Utiliser le fichier suivant :"
 
 #: spyder/plugins/ipythonconsole/confpage.py:235
 msgid "Run code while debugging"
-msgstr ""
+msgstr "Exécuter le code pendant le débogage"
 
 #: spyder/plugins/ipythonconsole/confpage.py:236
 msgid "You can run several lines of code on each new prompt while debugging. Please introduce each one separated by semicolons and a space, for example:<br><i>import matplotlib.pyplot as plt</i>"
-msgstr ""
+msgstr "Vous pouvez exécuter plusieurs lignes de code à chaque nouvelle étape lors du débogage. Veuillez introduire chaque ligne séparée par des points-virgules et un espace, par exemple :<br><i>import matplotlib.pyplot as plt</i>"
 
 #: spyder/plugins/ipythonconsole/confpage.py:252
 msgid "Debug"
-msgstr ""
+msgstr "Déboguer"
 
 #: spyder/plugins/ipythonconsole/confpage.py:256
 msgid "Prevent editor from closing files while debugging"
-msgstr ""
+msgstr "Empêcher l'éditeur de fermer les fichiers lors du débogage"
 
 #: spyder/plugins/ipythonconsole/confpage.py:258
 msgid "This option prevents the user from closing a file while it is debugged."
-msgstr ""
+msgstr "Cette option empêche l'utilisateur de fermer un fichier pendant qu'il est débogué."
 
 #: spyder/plugins/ipythonconsole/confpage.py:263
 msgid "Stop debugging on first line of files without breakpoints"
-msgstr ""
+msgstr "Arrêter le débogage sur la première ligne des fichiers sans points d'arrêt"
 
 #: spyder/plugins/ipythonconsole/confpage.py:265
 msgid "This option lets you decide if the debugger should stop on the first line while debugging if no breakpoints are present."
-msgstr ""
+msgstr "Cette option vous permet de décider si le débogueur doit s'arrêter sur la première ligne lors du débogage si aucun point d'arrêt n'est présent."
 
 #: spyder/plugins/ipythonconsole/confpage.py:271
 msgid "Ignore Python libraries while debugging"
@@ -3964,7 +3964,7 @@ msgstr "Ignorer les bibliothèques Python lors du débogage"
 
 #: spyder/plugins/ipythonconsole/confpage.py:272
 msgid "This option lets you decide if the debugger should ignore the system libraries while debugging."
-msgstr ""
+msgstr "Cette option vous permet de décider si le débogueur doit ignorer les bibliothèques système lors du débogage."
 
 #: spyder/plugins/ipythonconsole/confpage.py:277
 msgid "Process execute events while debugging"
@@ -3972,7 +3972,7 @@ msgstr "Traiter les événements d'exécution pendant le débogage"
 
 #: spyder/plugins/ipythonconsole/confpage.py:278
 msgid "This option lets you decide if the debugger should process the 'execute events' after each prompt, such as matplotlib 'show' command."
-msgstr ""
+msgstr "Cette option vous permet de décider si le débogueur doit traiter les « événements d'exécution » après chaque invitation, comme la commande matplotlib « show »."
 
 #: spyder/plugins/ipythonconsole/confpage.py:284
 msgid "Use exclamation mark prefix for Pdb commands"
