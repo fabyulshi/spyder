@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 12:14\n"
+"PO-Revision-Date: 2020-11-06 12:19\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -545,7 +545,7 @@ msgstr "<b>Wichtiger Hinweis:</b> Da Sie Spyder mit Anaconda installiert haben, 
 
 #: spyder/app/mainwindow.py:3417
 msgid "Please go to <a href=\"{}\">this page</a> to download it.<br><br>"
-msgstr ""
+msgstr "Bitte gehen Sie auf <a href=\"{}\">diese Seite</a>, um es herunterzuladen.<br><br>"
 
 #: spyder/app/mainwindow.py:3427
 msgid "Spyder is up to date."
@@ -5152,11 +5152,11 @@ msgstr "Bitte installieren Sie dieses Paket in Ihrer Spyder-Umgebung.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:139
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not supported in the Spyder Lite application.<br>"
-msgstr ""
+msgstr "Spyder kann die Variable, die Sie versuchen anzuzeigen, nicht anzeigen, weil das Modul <tt>{module}</tt> in der Spyder-Lite-Anwendung nicht unterstützt wird.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:144
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not found in your Spyder environment. Please install this package in this environment.<br>"
-msgstr ""
+msgstr "Spyder kann die Variable, die Sie versuchen anzuzeigen, nicht anzeigen, weil das Modul <tt>{module}</tt> in Ihrer Spyder-Umgebung nicht gefunden wird. Bitte installieren Sie dieses Paket in dieser Umgebung.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:155
 msgid "Spyder was unable to retrieve the value of this variable from the console.<br><br>The error message was:<br>%s"
@@ -6772,7 +6772,7 @@ msgstr "CPU-Auslastung"
 
 #: spyder/widgets/status.py:251
 msgid "Change default environment in Preferences..."
-msgstr ""
+msgstr "Standardumgebung in den Einstellungen ändern..."
 
 #: spyder/widgets/status.py:315
 msgid "Clock"
