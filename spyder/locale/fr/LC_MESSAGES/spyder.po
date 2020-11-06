@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 07:06\n"
+"PO-Revision-Date: 2020-11-06 07:22\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -630,7 +630,7 @@ msgstr "Aide"
 
 #: spyder/app/tour.py:210
 msgid "This pane displays documentation of the functions, classes, methods or modules you are currently using in the Editor or the IPython Console.<br><br>To use it, press <b>Ctrl+I</b> (<b>Cmd-I</b> on macOS) with the text cursor in or next to the object you want help on."
-msgstr ""
+msgstr "Ce volet affiche la documentation des fonctions, des classes, des méthodes ou des modules que vous utilisez actuellement dans l'éditeur ou la console IPython.<br><br>Pour l'utiliser, appuyez sur <b>Ctrl+I</b> (<b>Cmd-I</b> sur macOS) avec le curseur de texte dans ou à côté de l'objet sur lequel vous voulez obtenir de l'aide."
 
 #: spyder/app/tour.py:220 spyder/plugins/plots/plugin.py:133
 msgid "Plots"
@@ -638,7 +638,7 @@ msgstr "Graphes"
 
 #: spyder/app/tour.py:221
 msgid "This pane shows the figures and images created during your code execution. It allows you to browse, zoom, copy, and save the generated plots."
-msgstr ""
+msgstr "Ce volet montre les figures et les images créées lors de l'exécution de votre code. Il vous permet de naviguer, de zoomer, de copier et d'enregistrer les plots générés."
 
 #: spyder/app/tour.py:227 spyder/plugins/explorer/plugin.py:64
 msgid "Files"
@@ -646,15 +646,15 @@ msgstr "Fichiers"
 
 #: spyder/app/tour.py:228
 msgid "This pane lets you browse the files and directories on your computer.<br><br>You can open any file in its corresponding application by double-clicking it, and supported file types will be opened right inside of Spyder.<br><br>The Files pane also allows you to copy one or many absolute or relative paths, automatically formatted as Python strings or lists, and perform a variety of other file operations."
-msgstr ""
+msgstr "Ce volet vous permet de parcourir les fichiers et répertoires de votre ordinateur.<br><br>Vous pouvez ouvrir n'importe quel fichier dans l'application correspondante en double-cliquant dessus, et les types de fichiers pris en charge seront ouverts directement à l'intérieur de Spyder.<br><br>Le volet Fichiers vous permet également de copier un ou plusieurs chemins absolus ou relatifs, automatiquement formaté en tant que chaînes de caractères Python ou listes, et effectuer une variété d'autres opérations sur les fichiers."
 
 #: spyder/app/tour.py:241
 msgid "History Log"
-msgstr ""
+msgstr "Journal d'historique"
 
 #: spyder/app/tour.py:242
 msgid "This pane records all the commands and code run in any IPython console, allowing you to easily retrace your steps for reproducible research."
-msgstr ""
+msgstr "Ce volet enregistre toutes les commandes et le code exécutés dans n'importe quelle console IPython, ce qui vous permet de retracer facilement vos étapes pour reproduire vos résultats."
 
 #: spyder/app/tour.py:249 spyder/plugins/findinfiles/plugin.py:155
 msgid "Find"
@@ -662,7 +662,7 @@ msgstr "Trouver"
 
 #: spyder/app/tour.py:250
 msgid "The Find pane allows you to search for text in a given directory and navigate through all the found occurrences."
-msgstr ""
+msgstr "Le volet de recherche vous permet de rechercher du texte dans un répertoire donné et de naviguer à travers toutes les occurrences trouvées."
 
 #: spyder/app/tour.py:256 spyder/plugins/profiler/plugin.py:55
 msgid "Profiler"
@@ -670,7 +670,7 @@ msgstr "Profileur"
 
 #: spyder/app/tour.py:257
 msgid "The Profiler helps you optimize your code by determining the run time and number of calls for every function and method used in a file. It also allows you to save and compare your results between runs."
-msgstr ""
+msgstr "Le Profiler vous aide à optimiser votre code en déterminant le temps d'exécution et le nombre d'appels pour chaque fonction et méthode utilisée dans un fichier. Il vous permet également d'enregistrer et de comparer vos résultats entre les exécutions."
 
 #: spyder/app/tour.py:264 spyder/plugins/pylint/plugin.py:83
 msgid "Code Analysis"
@@ -678,15 +678,15 @@ msgstr "Analyse de code"
 
 #: spyder/app/tour.py:265
 msgid "The Code Analysis helps you improve the quality of your programs by detecting style issues, bad practices and potential bugs."
-msgstr ""
+msgstr "L'Analyse de Code vous aide à améliorer la qualité de vos programmes en détectant les problèmes de style, les mauvaises pratiques et les bogues potentiels."
 
 #: spyder/app/tour.py:271
 msgid "The end"
-msgstr ""
+msgstr "Fin"
 
 #: spyder/app/tour.py:272
 msgid "You have reached the end of our tour and are ready to start using Spyder! For more information, check out our <a href=\"{}\">documentation</a>.<br><br>"
-msgstr ""
+msgstr "Vous avez atteint la fin de notre visite et êtes prêt à utiliser Spyder ! Pour plus d'informations, consultez notre <a href=\"{}\">documentation</a>.<br><br>"
 
 #: spyder/app/tour.py:324
 msgid "<b>Spyder</b> is an interactive development environment based on bla"
@@ -718,19 +718,19 @@ msgstr "Allez à l'étape : "
 
 #: spyder/app/tour.py:1256
 msgid "Request"
-msgstr ""
+msgstr "Requête"
 
 #: spyder/app/tour.py:1257
 msgid "To run the tour, please press the green button on the left of the Spyder window's title bar to take it out of fullscreen mode."
-msgstr ""
+msgstr "Pour lancer la visite, appuyez sur le bouton vert à gauche de la barre de titre de la fenêtre Spyder pour la retirer du mode plein écran."
 
 #: spyder/app/tour.py:1422
 msgid "Welcome to Spyder!<br><br>Check out our interactive tour to explore some of Spyder's panes and features."
-msgstr ""
+msgstr "Bienvenue sur Spyder !<br><br>Consultez notre visite interactive pour découvrir certains des volets et fonctionnalités de Spyder."
 
 #: spyder/app/tour.py:1428
 msgid "Start tour"
-msgstr ""
+msgstr "Commencer la visite "
 
 #: spyder/config/manager.py:293
 msgid "Shortcut context must match '_' or the plugin `CONF_SECTION`!"
@@ -874,7 +874,7 @@ msgstr "Backend principal pour le serveur de langue Python"
 
 #: spyder/dependencies.py:120
 msgid "Verify if snippets files are valid"
-msgstr ""
+msgstr "Vérifier si les fichiers de modules de texte sont valides"
 
 #: spyder/dependencies.py:124
 msgid "Save Github credentials to report internal errors securely"
@@ -922,11 +922,11 @@ msgstr "Complétion de code et linting pour l'éditeur"
 
 #: spyder/dependencies.py:172
 msgid "Autoformat Python files in the Editor with the Black package"
-msgstr ""
+msgstr "Formater automatiquement les fichiers Python dans l'éditeur avec le package Black"
 
 #: spyder/dependencies.py:177
 msgid "Spyder plugin for the Python Language Server"
-msgstr ""
+msgstr "Plugin Spyder pour le serveur de langue Python"
 
 #: spyder/dependencies.py:181
 msgid "Parse desktop files on Linux"
@@ -958,7 +958,7 @@ msgstr "Accès rapide aux régions d'extraits de code"
 
 #: spyder/dependencies.py:211
 msgid "Determine package version"
-msgstr ""
+msgstr "Déterminer la version du paquet"
 
 #: spyder/dependencies.py:215
 msgid "Show help for objects in the Editor and Consoles in a dedicated pane"
@@ -970,7 +970,7 @@ msgstr "Noyaux Jupyter pour la console Spyder"
 
 #: spyder/dependencies.py:223
 msgid "3-way merge algorithm to merge document changes"
-msgstr ""
+msgstr "Algorithme de fusion 3 voies pour fusionner les modifications du document"
 
 #: spyder/dependencies.py:227
 msgid "Watch file changes on project directories"
@@ -1078,11 +1078,11 @@ msgstr "Il semble que votre installation Kite soit défectueuse. Si vous voulez 
 
 #: spyder/plugins/completion/kite/plugin.py:231
 msgid "Kite error"
-msgstr ""
+msgstr "Erreur de Kite"
 
 #: spyder/plugins/completion/kite/plugin.py:232
 msgid "The Kite completion engine returned an unexpected result for the request <tt>{0}</tt>: <br><br><tt>{1}</tt><br><br>Please make sure that your Kite installation is correct. In the meantime, Spyder will disable the Kite client to prevent further errors. For more information, please visit the <a href='https://help.kite.com/'>Kite help center</a>"
-msgstr ""
+msgstr "Le moteur de complétion de Kite a retourné un résultat inattendu pour la requête <tt>{0}</tt>: <br><br><tt>{1}</tt><br><br>Veuillez vous assurer que votre installation Kite est correcte. En attendant, Spyder désactivera le client Kite pour éviter d'autres erreurs. Pour plus d'informations, veuillez visiter le <a href='https://help.kite.com/'>Centre d'aide Kite</a>"
 
 #: spyder/plugins/completion/kite/utils/install.py:34
 msgid "No status"
@@ -1335,19 +1335,19 @@ msgstr "La valeur par défaut est 79"
 
 #: spyder/plugins/completion/languageserver/confpage.py:258
 msgid "Spyder can use {0}, {1} or {2} to format your code for conformance to the {3} convention."
-msgstr ""
+msgstr "Spyder peut utiliser {0}, {1} ou {2} pour formater votre code en conformité avec la convention {3}."
 
 #: spyder/plugins/completion/languageserver/confpage.py:266
 msgid "Choose the code formatting provider: "
-msgstr ""
+msgstr "Choisissez le fournisseur de formatage de code : "
 
 #: spyder/plugins/completion/languageserver/confpage.py:274
 msgid "Autoformat files on save"
-msgstr ""
+msgstr "Formater automatiquement les fichiers lors de la sauvegarde"
 
 #: spyder/plugins/completion/languageserver/confpage.py:276
 msgid "If enabled, autoformatting will take place when saving a file"
-msgstr ""
+msgstr "Si activé, le formatage automatique aura lieu lors de l'enregistrement d'un fichier"
 
 #: spyder/plugins/completion/languageserver/confpage.py:295
 msgid "<a href='http://www.pydocstyle.org/en/stable/error_codes.html'>page</a>"
@@ -1395,11 +1395,11 @@ msgstr "Ignorer les répertoires de points : [^ \\.]. *"
 
 #: spyder/plugins/completion/languageserver/confpage.py:385
 msgid "the LSP grammar"
-msgstr ""
+msgstr "la grammaire de LSP"
 
 #: spyder/plugins/completion/languageserver/confpage.py:387
 msgid "Spyder allows to define custom completion snippets to use in addition to the ones offered by the Language Server Protocol (LSP). Each snippet should follow {}.<br><br> <b>Note:</b> All changes will be effective only when applying the settings"
-msgstr ""
+msgstr "Spyder permet de définir des extraits de complétion personnalisés à utiliser en plus de ceux proposés par le Language Server Protocol (LSP). Chaque snippet devrait suivre {}.<br><br> <b>Note :</b> Toutes les modifications ne seront effectives que lors de l'application des paramètres"
 
 #: spyder/plugins/completion/languageserver/confpage.py:398 spyder/plugins/completion/languageserver/widgets/serversconfig.py:162
 msgid "Programming language provided by the LSP server"
@@ -1411,7 +1411,7 @@ msgstr "Langue"
 
 #: spyder/plugins/completion/languageserver/confpage.py:414
 msgid "Available snippets"
-msgstr ""
+msgstr "Blocs de texte disponibles"
 
 #: spyder/plugins/completion/languageserver/confpage.py:420 spyder/plugins/completion/languageserver/confpage.py:585 spyder/plugins/explorer/confpage.py:59 spyder/preferences/shortcuts.py:857
 msgid "Reset to default values"
@@ -1419,15 +1419,15 @@ msgstr "Rétablir les valeurs par défaut"
 
 #: spyder/plugins/completion/languageserver/confpage.py:421
 msgid "Create a new snippet"
-msgstr ""
+msgstr "Créer un bloc de texte"
 
 #: spyder/plugins/completion/languageserver/confpage.py:423
 msgid "Delete currently selected snippet"
-msgstr ""
+msgstr "Supprimer le bloc de texte sélectionné"
 
 #: spyder/plugins/completion/languageserver/confpage.py:425
 msgid "Export snippets to JSON"
-msgstr ""
+msgstr "Exporter les blocs de texte en JSON"
 
 #: spyder/plugins/completion/languageserver/confpage.py:426
 msgid "Import snippets from JSON"
