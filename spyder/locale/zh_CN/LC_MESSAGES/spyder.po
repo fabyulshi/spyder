@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 15:32\n"
+"PO-Revision-Date: 2020-11-06 15:48\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -3964,15 +3964,15 @@ msgstr "调试时处理执行事件"
 
 #: spyder/plugins/ipythonconsole/confpage.py:278
 msgid "This option lets you decide if the debugger should process the 'execute events' after each prompt, such as matplotlib 'show' command."
-msgstr ""
+msgstr "此选项允许你决定调试器是否应当在每个提示符后处理 '执行事件'，例如 matplotlib 'show' 命令。"
 
 #: spyder/plugins/ipythonconsole/confpage.py:284
 msgid "Use exclamation mark prefix for Pdb commands"
-msgstr ""
+msgstr "为 Pdb 命令使用感叹号前缀"
 
 #: spyder/plugins/ipythonconsole/confpage.py:286
 msgid "This option lets you decide if the Pdb commands should be prefixed by an exclamation mark. This helps in separating Pdb commands from Python code."
-msgstr ""
+msgstr "此选项允许你决定 Pdb 命令是否要带一个感叹号前缀。 这有助于将 Pdb 命令与 Python 代码区分开来。"
 
 #: spyder/plugins/ipythonconsole/confpage.py:295
 msgid "Jedi completion"
@@ -4088,7 +4088,7 @@ msgstr "启动"
 
 #: spyder/plugins/ipythonconsole/confpage.py:432
 msgid "Debugger"
-msgstr ""
+msgstr "调试器"
 
 #: spyder/plugins/ipythonconsole/plugin.py:83
 msgid "The directory {} is not writable and it is required to create IPython consoles. Please make it writable."
@@ -4148,7 +4148,7 @@ msgstr "没有可用的IPython控制台用于运行 <b>{}</b>.<br><br>请新建�
 
 #: spyder/plugins/ipythonconsole/plugin.py:718
 msgid "Your Python environment or installation doesn't have the <tt>spyder-kernels</tt> module or the right version of it installed (>= 1.9.4 and < 1.10.0). Without this module is not possible for Spyder to create a console for you.<br><br>You can install it by running in a system terminal:<br><br><tt>conda install spyder-kernels</tt><br><br>or<br><br><tt>pip install spyder-kernels</tt>"
-msgstr ""
+msgstr "你的 Python 环境或安装没有 <tt>spyder-kernels</tt> 模块或没有安装正确的版本 (>= 1.9.4 且 < 1.10.0)。 如果没有此模块则 Spyder 将无法为你创建控制台。<br><br>你可以在系统终端运行下列命令来安装它:<br><br><tt>conda install spyder-kernels</tt><br><br>或者<br><br><tt>pip install spyder-kernels</tt>"
 
 #: spyder/plugins/ipythonconsole/plugin.py:1014
 msgid "Do you want to close this console?"
@@ -5131,11 +5131,11 @@ msgstr "请在你的 Spyder 环境中安装这个软件包。<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:139
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not supported in the Spyder Lite application.<br>"
-msgstr ""
+msgstr "Spyder 无法显示你想要查看的变量，因为模块 <tt>{module}</tt> 在 Spyder Lite 应用程序中不受支持。<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:144
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not found in your Spyder environment. Please install this package in this environment.<br>"
-msgstr ""
+msgstr "Spyder 无法显示你想要查看的变量，因为模块 <tt>{module}</tt> 在你的 Spyder 环境中未找到。 请在此环境中安装这个包。<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:155
 msgid "Spyder was unable to retrieve the value of this variable from the console.<br><br>The error message was:<br>%s"
@@ -6745,7 +6745,7 @@ msgstr "CPU使用率"
 
 #: spyder/widgets/status.py:251
 msgid "Change default environment in Preferences..."
-msgstr ""
+msgstr "在首选面中更改默认的环境..."
 
 #: spyder/widgets/status.py:315
 msgid "Clock"
