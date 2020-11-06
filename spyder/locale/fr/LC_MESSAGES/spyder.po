@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 07:29\n"
+"PO-Revision-Date: 2020-11-06 07:41\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -874,7 +874,7 @@ msgstr "Backend principal pour le serveur de langue Python"
 
 #: spyder/dependencies.py:120
 msgid "Verify if snippets files are valid"
-msgstr "Vérifier si les fichiers de modules de texte sont valides"
+msgstr "Vérifier si les fichiers d'extraits de code sont valides"
 
 #: spyder/dependencies.py:124
 msgid "Save Github credentials to report internal errors securely"
@@ -1399,7 +1399,7 @@ msgstr "la grammaire de LSP"
 
 #: spyder/plugins/completion/languageserver/confpage.py:387
 msgid "Spyder allows to define custom completion snippets to use in addition to the ones offered by the Language Server Protocol (LSP). Each snippet should follow {}.<br><br> <b>Note:</b> All changes will be effective only when applying the settings"
-msgstr "Spyder permet de définir des extraits de complétion personnalisés à utiliser en plus de ceux proposés par le Language Server Protocol (LSP). Chaque snippet devrait suivre {}.<br><br> <b>Note :</b> Toutes les modifications ne seront effectives que lors de l'application des paramètres"
+msgstr "Spyder permet de définir des extraits de complétion personnalisés à utiliser en plus de ceux proposés par le Language Server Protocol (LSP). Chaque extrait de code devrait suivre {}.<br><br> <b>Note :</b> Toutes les modifications ne seront effectives que lors de l'application des paramètres"
 
 #: spyder/plugins/completion/languageserver/confpage.py:398 spyder/plugins/completion/languageserver/widgets/serversconfig.py:162
 msgid "Programming language provided by the LSP server"
@@ -1411,7 +1411,7 @@ msgstr "Langue"
 
 #: spyder/plugins/completion/languageserver/confpage.py:414
 msgid "Available snippets"
-msgstr "Blocs de texte disponibles"
+msgstr "Extraits de code disponibles"
 
 #: spyder/plugins/completion/languageserver/confpage.py:420 spyder/plugins/completion/languageserver/confpage.py:585 spyder/plugins/explorer/confpage.py:59 spyder/preferences/shortcuts.py:857
 msgid "Reset to default values"
@@ -1427,11 +1427,11 @@ msgstr "Supprimer le bloc de texte sélectionné"
 
 #: spyder/plugins/completion/languageserver/confpage.py:425
 msgid "Export snippets to JSON"
-msgstr "Exporter les blocs de texte en JSON"
+msgstr "Exporter les extraits de code en JSON"
 
 #: spyder/plugins/completion/languageserver/confpage.py:426
 msgid "Import snippets from JSON"
-msgstr "Importer des blocs de texte depuis JSON"
+msgstr "Importer des extraits de code depuis JSON"
 
 #: spyder/plugins/completion/languageserver/confpage.py:460
 msgid "Providers"
@@ -1531,7 +1531,7 @@ msgstr "Formatage du code"
 
 #: spyder/plugins/completion/languageserver/confpage.py:626
 msgid "Snippets"
-msgstr "Blocs de texte"
+msgstr "Extraits de code"
 
 #: spyder/plugins/completion/languageserver/confpage.py:631
 msgid "Other languages"
@@ -1551,43 +1551,43 @@ msgstr "<b> La modification de ces options peut compromettre l'achèvement du co
 
 #: spyder/plugins/completion/languageserver/confpage.py:759
 msgid "Save snippets"
-msgstr ""
+msgstr "Enregistrer les extraits de code"
 
 #: spyder/plugins/completion/languageserver/confpage.py:772
 msgid "Load snippets"
-msgstr ""
+msgstr "Charger les extraits de code"
 
 #: spyder/plugins/completion/languageserver/confpage.py:786
 msgid "All snippets imported"
-msgstr ""
+msgstr "Tous les extraits de code importés"
 
 #: spyder/plugins/completion/languageserver/confpage.py:787
 msgid "{0} snippets were loaded successfully"
-msgstr ""
+msgstr "{0} extraits de code ont été chargés avec succès"
 
 #: spyder/plugins/completion/languageserver/confpage.py:794
 msgid "JSON malformed"
-msgstr ""
+msgstr "JSON malformé"
 
 #: spyder/plugins/completion/languageserver/confpage.py:795
 msgid "There was an error when trying to load the provided JSON file: <tt>{0}</tt>"
-msgstr ""
+msgstr "Il y a eu une erreur lors du chargement du fichier JSON fourni : <tt>{0}</tt>"
 
 #: spyder/plugins/completion/languageserver/confpage.py:804
 msgid "Invalid snippet file"
-msgstr ""
+msgstr "Fichier d’extraits de code invalide"
 
 #: spyder/plugins/completion/languageserver/confpage.py:805
 msgid "The provided snippet file does not comply with the Spyder JSON snippets spec and therefore it cannot be loaded.<br><br><tt>{}</tt>"
-msgstr ""
+msgstr "Le fichier d'extraits de code fourni n'est pas conforme à la spécification des extraits de code Spyder JSON et ne peut donc pas être chargé.<br><br><tt>{}</tt>"
 
 #: spyder/plugins/completion/languageserver/confpage.py:822
 msgid "Incorrect snippet format"
-msgstr ""
+msgstr "Format d'extraits de code incorrect"
 
 #: spyder/plugins/completion/languageserver/confpage.py:823
 msgid "Spyder was able to load {0}/{1} snippets correctly, please check the following snippets for any syntax errors: <br><br>{2}"
-msgstr ""
+msgstr "Spyder a pu charger correctement {0}/{1} extraits de code, veuillez vérifier les extraits de code suivants pour toute erreur de syntaxe : <br><br>{2}"
 
 #: spyder/plugins/completion/languageserver/confpage.py:839
 msgid "It appears there is no {language} language server listening at address:<br><br><tt>{host}:{port}</tt><br><br>Please verify that the provided information is correct and try again."
@@ -1723,15 +1723,15 @@ msgstr "Commande à exécuter"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:210
 msgid "Valid snippet"
-msgstr ""
+msgstr "Extrait de code valide"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:211
 msgid "Invalid snippet"
-msgstr ""
+msgstr "Extrait de code invalide"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:223
 msgid "To add a new text snippet, you need to define the text that triggers it, a short description (two words maximum) of the snippet and if it should delete the trigger text when inserted. Finally, you need to define the snippet body to insert."
-msgstr ""
+msgstr "Pour ajouter un nouvel extrait de code, vous devez définir le texte qui le déclenche, une description courte (deux mots maximum) de l'extrait et si elle doit supprimer le texte du déclencheur lorsqu'il est inséré. Enfin, vous devez définir le corps de l'extrait de code à insérer."
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:246
 msgid "Trigger text:"
@@ -1747,23 +1747,23 @@ msgstr ""
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:257
 msgid "Check if the text that triggers this snippet should be removed when inserting it"
-msgstr ""
+msgstr "Vérifier si le texte qui déclenche cet extrait de code doit être supprimé lors de l'insertion"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:263
 msgid "<b>Snippet text:</b>"
-msgstr ""
+msgstr "<b>Texte de l'extrait :</b>"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:274
 msgid "Snippet editor"
-msgstr ""
+msgstr "Editeur d'extraits de code"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:278
 msgid "Trigger text for the current snippet"
-msgstr ""
+msgstr "Texte déclencheur pour l'extrait de code actuel"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:307
 msgid "Snippet text completion to insert"
-msgstr ""
+msgstr "Complétion de l'extrait de code à insérer"
 
 #: spyder/plugins/completion/languageserver/widgets/snippetsconfig.py:314
 msgid "Trigger information"
@@ -5229,11 +5229,11 @@ msgstr "Insérer"
 
 #: spyder/plugins/variableexplorer/widgets/collectionseditor.py:621
 msgid "Insert above"
-msgstr "Insérer au-dessus"
+msgstr "Insérer au dessus"
 
 #: spyder/plugins/variableexplorer/widgets/collectionseditor.py:626
 msgid "Insert below"
-msgstr ""
+msgstr "Insérer en dessous"
 
 #: spyder/plugins/variableexplorer/widgets/collectionseditor.py:640 spyder/plugins/variableexplorer/widgets/collectionseditor.py:934
 msgid "Duplicate"
@@ -6513,11 +6513,11 @@ msgstr "Chaîne de caractères de remplacement"
 
 #: spyder/widgets/findreplace.py:148
 msgid "In selection"
-msgstr ""
+msgstr "Dans la sélection"
 
 #: spyder/widgets/findreplace.py:156
 msgid "All"
-msgstr ""
+msgstr "Tous"
 
 #: spyder/widgets/findreplace.py:633
 msgid "of"
@@ -6753,7 +6753,7 @@ msgstr "Utilisation du processeur"
 
 #: spyder/widgets/status.py:251
 msgid "Change default environment in Preferences..."
-msgstr ""
+msgstr "Changer l'environnement par défaut dans les Préférences..."
 
 #: spyder/widgets/status.py:315
 msgid "Clock"
