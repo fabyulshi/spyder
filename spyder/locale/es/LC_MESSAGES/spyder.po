@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 02:36\n"
+"PO-Revision-Date: 2020-11-06 03:56\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -530,23 +530,23 @@ msgstr ""
 
 #: spyder/app/mainwindow.py:3382
 msgid "Check for updates at startup"
-msgstr ""
+msgstr "Buscar actualizaciones al inicio"
 
 #: spyder/app/mainwindow.py:3399
 msgid "<b>Spyder {} is available!</b><br><br>"
-msgstr ""
+msgstr "<b>¡Spyder {} está disponible!</b><br><br>"
 
 #: spyder/app/mainwindow.py:3401
 msgid "For more information visit our <a href=\"{}\">installation guide</a>."
-msgstr ""
+msgstr "Para más información, visite nuestra <a href=\"{}\">guía de instalación</a>."
 
 #: spyder/app/mainwindow.py:3406
 msgid "<b>Important note:</b> Since you installed Spyder with Anaconda, please <b>don't</b> use <code>pip</code> to update it as that will break your installation.<br><br>Instead, run the following commands in a terminal:<br><code>conda update anaconda</code><br><code>conda install spyder={}</code><br><br>"
-msgstr ""
+msgstr "<b>Nota importante:</b> Como instaló Spyder con Anaconda, por favor <b>no</b> use <code>pip</code> para actualizarlo ya que esto romperá su instalación.<br><br>En cambio ejecute los siguientes comandos en una terminal:<br><code>conda update anaconda</code><br><code>conda install spyder={}</code><br><br>"
 
 #: spyder/app/mainwindow.py:3417
 msgid "Please go to <a href=\"{}\">this page</a> to download it.<br><br>"
-msgstr ""
+msgstr "Por favor, vaya a <a href=\"{}\">esta página</a> para descargarlo.<br><br>"
 
 #: spyder/app/mainwindow.py:3427
 msgid "Spyder is up to date."
@@ -5168,7 +5168,7 @@ msgstr "Por favor, instale este paquete en su entorno de Spyder.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:139
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not supported in the Spyder Lite application.<br>"
-msgstr ""
+msgstr "Spyder no puede mostrar la variable que intenta ver porque el módulo <tt>{module}</tt> no es compatible con la aplicación Spyder Lite.<br>"
 
 #: spyder/plugins/variableexplorer/widgets/collectionsdelegate.py:144
 msgid "Spyder is unable to show the variable you're trying to view because the module <tt>{module}</tt> is not found in your Spyder environment. Please install this package in this environment.<br>"
