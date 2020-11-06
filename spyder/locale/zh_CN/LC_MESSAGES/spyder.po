@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 02:37\n"
+"PO-Revision-Date: 2020-11-06 15:11\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -522,19 +522,19 @@ msgstr "Spyder将重启和恢复默认设置：<br><br> 是否继续？"
 
 #: spyder/app/mainwindow.py:3381
 msgid "New Spyder version"
-msgstr ""
+msgstr "新的 Spyder 版本"
 
 #: spyder/app/mainwindow.py:3382
 msgid "Check for updates at startup"
-msgstr ""
+msgstr "启动时检查更新版本"
 
 #: spyder/app/mainwindow.py:3399
 msgid "<b>Spyder {} is available!</b><br><br>"
-msgstr ""
+msgstr "<b>Spyder {} 可用！</b><br><br>"
 
 #: spyder/app/mainwindow.py:3401
 msgid "For more information visit our <a href=\"{}\">installation guide</a>."
-msgstr ""
+msgstr "欲了解更多信息，请访问我们的 <a href=\"{}\">安装指南</a>。"
 
 #: spyder/app/mainwindow.py:3406
 msgid "<b>Important note:</b> Since you installed Spyder with Anaconda, please <b>don't</b> use <code>pip</code> to update it as that will break your installation.<br><br>Instead, run the following commands in a terminal:<br><code>conda update anaconda</code><br><code>conda install spyder={}</code><br><br>"
