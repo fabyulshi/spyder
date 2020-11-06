@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2020-11-05 21:29-0500\n"
-"PO-Revision-Date: 2020-11-06 02:36\n"
+"PO-Revision-Date: 2020-11-06 12:14\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -525,23 +525,23 @@ msgstr "Spyder wird neu gestartet und auf die Standardeinstellungen zurückgeset
 
 #: spyder/app/mainwindow.py:3381
 msgid "New Spyder version"
-msgstr ""
+msgstr "Neue Spyder-Version"
 
 #: spyder/app/mainwindow.py:3382
 msgid "Check for updates at startup"
-msgstr ""
+msgstr "Beim Start auf Aktualisierungen prüfen"
 
 #: spyder/app/mainwindow.py:3399
 msgid "<b>Spyder {} is available!</b><br><br>"
-msgstr ""
+msgstr "<b>Spyder {} ist verfügbar!</b><br><br>"
 
 #: spyder/app/mainwindow.py:3401
 msgid "For more information visit our <a href=\"{}\">installation guide</a>."
-msgstr ""
+msgstr "Weitere Informationen finden Sie in unserer <a href=\"{}\">Installationsanleitung</a>."
 
 #: spyder/app/mainwindow.py:3406
 msgid "<b>Important note:</b> Since you installed Spyder with Anaconda, please <b>don't</b> use <code>pip</code> to update it as that will break your installation.<br><br>Instead, run the following commands in a terminal:<br><code>conda update anaconda</code><br><code>conda install spyder={}</code><br><br>"
-msgstr ""
+msgstr "<b>Wichtiger Hinweis:</b> Da Sie Spyder mit Anaconda installiert haben, verwenden Sie bitte <b>nicht</b> <code>pip</code>, um es zu aktualisieren, da dies Ihre Installation kaputt machen würde.<br><br>Führen Sie stattdessen die folgenden Befehle in einem Terminal aus:<br><code>conda update anaconda</code><br><code>conda install spyder={}</code><br><br>"
 
 #: spyder/app/mainwindow.py:3417
 msgid "Please go to <a href=\"{}\">this page</a> to download it.<br><br>"
